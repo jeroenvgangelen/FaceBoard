@@ -1,0 +1,2 @@
+serviceClass: nl.tucuxi.faceboard.client.FBDataSource
+path: 83DD72F2525B03EEC088E1D83BBC942C.gwt.rpc

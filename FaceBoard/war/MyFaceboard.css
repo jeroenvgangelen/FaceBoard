@@ -1,0 +1,8 @@
+.absolutePanel {
+	position:relative;
+}
+
+ .scroll-panel {
+    border-style: dotted;
+    overflow:hidden;
+  }

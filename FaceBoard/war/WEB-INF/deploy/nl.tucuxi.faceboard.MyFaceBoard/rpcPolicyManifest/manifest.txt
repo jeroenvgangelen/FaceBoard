@@ -1,0 +1,3 @@
+# Module nl.tucuxi.faceboard.MyFaceBoard
+# RPC service class, partial path of RPC policy file
+nl.tucuxi.faceboard.client.FBDataSource, 83DD72F2525B03EEC088E1D83BBC942C.gwt.rpc
